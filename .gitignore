@@ -1,0 +1,80 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Dependencias (instaladas con pip)
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+
+# Archivos de coverage / testing
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Archivos creados por Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Archivos de documentación
+docs/_build/
+target/
+site/
+
+# Configuración de herramientas
+.pyre/
+.mypy_cache/
+.dmypy.json
+.pytype/
+
+# Configuración de distribución
+MANIFEST
+
+# Archivos de entornos / configuración local
+.env
+.env.local
+.env.*.local
+*.env
+*.ini
+
+# Otros
+*.bak
+*.swp
